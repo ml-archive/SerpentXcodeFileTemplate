@@ -1,4 +1,4 @@
-# Serializable Xcode File Template
+# ![](https://raw.githubusercontent.com/nodes-ios/SerializableXcodeFileTemplate/master/Serializable/Serializable%20Model.xctemplate/TemplateIcon.png) Serializable Xcode File Template
 
 A small file template for Xcode, to create model files without having to write some boilerplate code.
 
