@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllowedTypes</key>
+	<array>
+		<string>public.swift-source</string>
+	</array>
+	<key>DefaultCompletionName</key>
+	<string>Model</string>
+	<key>Description</key>
+	<string>A Swift source file for use with models using Serializable.</string>
+	<key>Kind</key>
+	<string>Xcode.IDEFoundation.TextSubstitutionFileTemplateKind</string>
+	<key>MainTemplateFile</key>
+	<string>___FILEBASENAME___.swift</string>
+	<key>Summary</key>
+	<string>A Serializable model swift source file</string>
+	<key>Options</key>
+	<array>
+		<dict>
+			<key>Description</key>
+			<string>Name of the model</string>
+			<key>Identifier</key>
+			<string>productName</string>
+			<key>Name</key>
+			<string>Model:</string>
+			<key>NotPersisted</key>
+			<string>Yes</string>
+			<key>Required</key>
+			<string>Yes</string>
+			<key>Type</key>
+			<string>text</string>
+		</dict>
+		<dict>
+			<key>Identifier</key>
+			<string>objectChoice</string>
+			<key>Required</key>
+			<true/>
+			<key>Name</key>
+			<string>Object type:</string>
+			<key>Description</key>
+			<string>The type you want your model to be</string>
+			<key>Type</key>
+			<string>popup</string>
+			<key>Default</key>
+			<string>Struct</string>
+			<key>Values</key>
+			<array>
+				<string>Struct</string>
+				<string>Class</string>
+			</array>
+			<key>MainTemplateFiles</key>
+			<dict>
+				<key>Struct</key>
+				<string>___FILEBASENAME___.swift</string>
+				<key>Class</key>
+				<string>___FILEBASENAME___.swift</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
