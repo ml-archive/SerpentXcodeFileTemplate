@@ -14,6 +14,14 @@ A small file template for Xcode, to create model files without having to write s
 chmod 755 install.sh && ./install.sh
 ~~~
 
+## Usage
+
+1. Open your Xcode project
+2. Create a new file (`Cmd + N`)
+3. Notice Serializable in the left pane
+
+![](http://i65.tinypic.com/2m3k8e0.png)
+
 ## 👥 Credits
 Made with ❤️ at [Nodes](http://nodesagency.com).
 
