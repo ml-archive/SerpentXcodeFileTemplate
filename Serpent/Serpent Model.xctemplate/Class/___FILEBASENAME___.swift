@@ -6,7 +6,7 @@
 //___COPYRIGHT___
 //
 
-import Serializable
+import Serpent
 
 class ___FILEBASENAMEASIDENTIFIER___ {
     
