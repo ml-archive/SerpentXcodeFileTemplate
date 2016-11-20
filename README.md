@@ -1,4 +1,4 @@
-# ![](https://raw.githubusercontent.com/nodes-ios/SerializableXcodeFileTemplate/master/Serializable/Serializable%20Model.xctemplate/TemplateIcon.png) Serializable Xcode File Template
+# ![](Serpent/Serpent%20Model.xctemplate/TemplateIcon.png) Serpent Xcode File Template
 
 A small file template for Xcode, to create model files without having to write some boilerplate code.
 
@@ -18,12 +18,12 @@ chmod 755 install.sh && ./install.sh
 
 1. Open your Xcode project
 2. Create a new file (`Cmd + N`)
-3. Notice Serializable in the left pane
+3. Notice Serpent in the left pane
 
-![](http://i65.tinypic.com/2m3k8e0.png)
+![](http://i.imgur.com/judzaJZ.png)
 
 ## 👥 Credits
 Made with ❤️ at [Nodes](http://nodesagency.com).
 
 ## 📄 License
-**Serializable Xcode File Template** is available under the MIT license. See the [LICENSE](https://github.com/nodes-ios/SerializableXcodeFileTemplate/blob/master/LICENSE) file for more info.
+**Serpent Xcode File Template** is available under the MIT license. See the [LICENSE](https://github.com/nodes-ios/SerpentXcodeFileTemplate/blob/master/LICENSE) file for more info.

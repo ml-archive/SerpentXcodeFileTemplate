@@ -9,13 +9,13 @@
 	<key>DefaultCompletionName</key>
 	<string>Model</string>
 	<key>Description</key>
-	<string>A Swift source file for use with models using Serializable.</string>
+	<string>A Swift source file for use with models using Serpent.</string>
 	<key>Kind</key>
 	<string>Xcode.IDEFoundation.TextSubstitutionFileTemplateKind</string>
 	<key>MainTemplateFile</key>
 	<string>___FILEBASENAME___.swift</string>
 	<key>Summary</key>
-	<string>A Serializable model swift source file</string>
+	<string>A Serpent model swift source file</string>
 	<key>Options</key>
 	<array>
 		<dict>
